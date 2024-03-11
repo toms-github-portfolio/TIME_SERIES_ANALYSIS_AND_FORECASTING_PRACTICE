@@ -1,4 +1,4 @@
-# TIME_SERIES_ANALYSIS_AND_FORECASTING_PRACTICE
+# Time_Series_Analysis_And_Forecasting_Practice
 
 # In a time series analysis
 #install.packages("forecast")
